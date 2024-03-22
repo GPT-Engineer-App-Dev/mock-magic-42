@@ -9,3 +9,6 @@ url = "http://b"
 
 [[gptengineer-app.openapi]]
 url = "http:/c"
+
+[[gptengineer-app.openapi]]
+url = "http://d"
