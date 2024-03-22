@@ -5,7 +5,4 @@ build = "npm run build"
 project_id = "97d1b519-41db-4f68-9e23-bbc0b31d0c3f"
 
 [[gptengineer-app.openapi]]
-url = "jisjdfgowh8erhw3oefsdf"
-
-[[gptengineer-app.openapi]]
 url = "http://a"
